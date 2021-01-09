@@ -14,6 +14,8 @@
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
 
+[![CodeWars](https://www.codewars.com/users/Aleksey28/badges/large)](https://www.codewars.com/users/Aleksey28)
+
 <!--
 **Aleksey28/Aleksey28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
