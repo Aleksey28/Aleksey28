@@ -11,6 +11,7 @@
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![Webpack](https://shields.io/badge/-Webpack-2b3a42?logo=webpack&style=for-the-badge)](https://webpack.js.org/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
+[![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
 
