@@ -14,6 +14,7 @@
 [![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
+[![Type Script](https://shields.io/badge/-Type_Script-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](https://www.typescriptlang.org/)
 
 #### Link to CodeWars
 [![CodeWars](https://www.codewars.com/users/Aleksey28/badges/large)](https://www.codewars.com/users/Aleksey28)
