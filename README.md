@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Aleksey Popov and I'm a web-developer
+### Hi there 👋 I'm Aleksey Popov and I'm a web-developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aleksey28.Aleksey28)
 - 🔭 I’m currently looking for job
 - 🌱 I’m currently learning React.js and going to lear Vue.js and TypeScript
 - ⚡ Also I can use HTML, CSS, JS, Git, Express.js, Node.js, MongoDB, SVG
@@ -18,7 +18,6 @@
 
 #### Link to CodeWars
 [![CodeWars](https://www.codewars.com/users/Aleksey28/badges/large)](https://www.codewars.com/users/Aleksey28)
-
 <!--
 **Aleksey28/Aleksey28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
