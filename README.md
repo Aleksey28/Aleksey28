@@ -20,7 +20,8 @@
 #### Link to CodeWars
 [![CodeWars](https://www.codewars.com/users/Aleksey28/badges/large)](https://www.codewars.com/users/Aleksey28)
 
-#### Link to [![Hacke_rank](https://shields.io/badge/-Hacker_rank-2EC866?logo=hackerrank&style=for-the-badge&logoColor=fff)](https://www.hackerrank.com/Alekseypopow1995)
+#### Link to HackeRank
+[![Hacke_rank](https://shields.io/badge/-Hacker_rank-2EC866?logo=hackerrank&style=for-the-badge&logoColor=fff)](https://www.hackerrank.com/Alekseypopow1995)
 <!--
 **Aleksey28/Aleksey28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
