@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Aleksey Popov and I'm a web-developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aleksey28.Aleksey28)
-- 🔭 I’m currently looking for job
-- 🌱 I’m currently learning React and TypeScript and going to lear Vue.js 
+### Hi there 👋 I'm Aleksey Popov and I'm a web-developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aleksey28.Aleksey28) 
 - ⚡ Also I can use HTML, CSS, JS, Git, Express.js, Node.js, MongoDB, SVG
 - 📫 How to reach me: alekseypopow1995@yandex.ru
 
