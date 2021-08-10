@@ -15,6 +15,7 @@
 
 ### Contacts
 - e-mail: alekseypopow1995@yandex.ru
+- tg: https://t.me/Aleksey2807
 
 #### Link to CodeWars
 [![CodeWars](https://www.codewars.com/users/Aleksey28/badges/large)](https://www.codewars.com/users/Aleksey28)
