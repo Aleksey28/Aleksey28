@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Aleksey Popov and I'm a web-developer ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aleksey28.Aleksey28) 
-- ⚡ Also I can use HTML, CSS, JS, Git, Express.js, Node.js, MongoDB, SVG
-- 📫 How to reach me: alekseypopow1995@yandex.ru
 
 ### Technology stack
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
@@ -14,6 +12,9 @@
 [![Type Script](https://shields.io/badge/-Type_Script-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](https://www.typescriptlang.org/)
 [![Bootstrap](https://shields.io/badge/-bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=fff)](https://getbootstrap.com/)
 [![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)](https://www.figma.com/)
+
+### Contacts
+- e-mail: alekseypopow1995@yandex.ru
 
 #### Link to CodeWars
 [![CodeWars](https://www.codewars.com/users/Aleksey28/badges/large)](https://www.codewars.com/users/Aleksey28)
