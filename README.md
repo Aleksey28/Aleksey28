@@ -15,7 +15,7 @@
 [![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
 
 ### Contacts
-[![Email](https://shields.io/badge/email-alekseypopow%40yandex.ru-fc0?logo=mail.ru&style=flat-square&logoColor=000&labelColor=fff)](mailto:alekseypopow@yandex.ru)  
+[![Email](https://shields.io/badge/email-alekseypopow1995%40yandex.ru-fc0?logo=mail.ru&style=flat-square&logoColor=000&labelColor=fff)](mailto:alekseypopow1995@yandex.ru)  
 [![Telegram](https://shields.io/badge/Telegram-Aleksey2807-26A5E4?logo=Telegram&style=flat-square&logoColor=000&labelColor=fff)](https://t.me/Aleksey2807)
 
 #### Link to CodeWars
