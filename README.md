@@ -12,6 +12,7 @@
 [![Type Script](https://shields.io/badge/-Type_Script-3178C6?logo=typescript&style=for-the-badge&logoColor=fff)](https://www.typescriptlang.org/)
 [![Bootstrap](https://shields.io/badge/-bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=fff)](https://getbootstrap.com/)
 [![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)](https://www.figma.com/)
+[![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
 
 ### Contacts
 - e-mail: alekseypopow1995@yandex.ru
