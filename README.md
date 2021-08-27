@@ -15,8 +15,8 @@
 [![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
 
 ### Contacts
-[![Email](https://shields.io/badge/email-alekseypopow1995%40yandex.ru-fc0?logo=mail.ru&style=flat-square&logoColor=000&labelColor=fff)](mailto:alekseypopow1995@yandex.ru)  
-[![Telegram](https://shields.io/badge/Telegram-Aleksey2807-26A5E4?logo=Telegram&style=flat-square&logoColor=000&labelColor=fff)](https://t.me/Aleksey2807)
+[![Email](https://shields.io/badge/email-alekseypopow1995%40yandex.ru-fc0?logo=mail.ru&style=flat-square&logoColor=000&labelColor=f0efe7)](mailto:alekseypopow1995@yandex.ru)  
+[![Telegram](https://shields.io/badge/Telegram-Aleksey2807-26A5E4?logo=Telegram&style=flat-square&logoColor=000&labelColor=f0efe7)](https://t.me/Aleksey2807)
 
 #### Link to CodeWars
 [![CodeWars](https://www.codewars.com/users/Aleksey28/badges/large)](https://www.codewars.com/users/Aleksey28)
