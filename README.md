@@ -14,6 +14,10 @@
 [![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)](https://www.figma.com/)
 [![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord&hide_rank=true&hide=stars)](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord)
+
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey28&layout=compact&theme=nord)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey28&layout=compact&theme=nord)
+
 ### Contacts
 [![Email](https://shields.io/badge/email-alekseypopow1995%40yandex.ru-fc0?logo=mail.ru&style=flat-square&logoColor=000&labelColor=f0efe7)](mailto:alekseypopow1995@yandex.ru)  
 [![Telegram](https://shields.io/badge/Telegram-Aleksey2807-26A5E4?logo=Telegram&style=flat-square&logoColor=000&labelColor=f0efe7)](https://t.me/Aleksey2807)
