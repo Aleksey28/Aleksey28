@@ -19,7 +19,6 @@
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey28&layout=compact&theme=nord&card_width=265)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey28&layout=compact&theme=nord)
 
 ### Contacts
-[![Email](https://shields.io/badge/email-alekseypopow1995%40yandex.ru-fc0?logo=mail.ru&style=flat-square&logoColor=000&labelColor=f0efe7)](mailto:alekseypopow1995@yandex.ru)  
 [![Telegram](https://shields.io/badge/Telegram-Aleksey2807-26A5E4?logo=Telegram&style=flat-square&logoColor=000&labelColor=f0efe7)](https://t.me/Aleksey2807)
 
 #### Link to CodeWars
