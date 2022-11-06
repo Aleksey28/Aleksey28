@@ -13,6 +13,7 @@
 [![Bootstrap](https://shields.io/badge/-bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=fff)](https://getbootstrap.com/)
 [![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)](https://www.figma.com/)
 [![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
+[![TestCafe](https://shields.io/badge/-TestCafe-36B6E5?logo=testcafe&style=for-the-badge&logoColor=fff)]([https://redux.js.org/](https://testcafe.io/))
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord&hide_rank=true&hide=stars)](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord)
 
