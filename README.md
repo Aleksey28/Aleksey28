@@ -13,8 +13,9 @@
 [![Bootstrap](https://shields.io/badge/-bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=fff)](https://getbootstrap.com/)
 [![Figma](https://shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=fff)](https://www.figma.com/)
 [![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
-[![TestCafe](https://shields.io/badge/-TestCafe-36B6E5?logo=testcafe&style=for-the-badge&logoColor=fff)]([https://redux.js.org/](https://testcafe.io/))
-[![AntDesign](https://shields.io/badge/-AntDesign-0170FE?logo=antdesign&style=for-the-badge&logoColor=fff)]([https://redux.js.org/](https://testcafe.io/))
+[![TestCafe](https://shields.io/badge/-TestCafe-36B6E5?logo=testcafe&style=for-the-badge&logoColor=fff)](https://testcafe.io/)
+[![AntDesign](https://shields.io/badge/-AntDesign-0170FE?logo=antdesign&style=for-the-badge&logoColor=fff)](https://testcafe.io/)
+[![Blazor](https://shields.io/badge/-Blazor-512BD4?logo=blazor&style=for-the-badge&logoColor=fff)]([https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord&hide_rank=true&hide=stars)](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord)
 
