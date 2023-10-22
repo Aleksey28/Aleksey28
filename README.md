@@ -15,7 +15,8 @@
 [![Redux](https://shields.io/badge/-Redux-764ABC?logo=redux&style=for-the-badge&logoColor=fff)](https://redux.js.org/)
 [![TestCafe](https://shields.io/badge/-TestCafe-36B6E5?logo=testcafe&style=for-the-badge&logoColor=fff)](https://testcafe.io/)
 [![AntDesign](https://shields.io/badge/-AntDesign-0170FE?logo=antdesign&style=for-the-badge&logoColor=fff)](https://testcafe.io/)
-[![Blazor](https://shields.io/badge/-Blazor-512BD4?logo=blazor&style=for-the-badge&logoColor=fff)]([https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![Blazor](https://shields.io/badge/-CSharp-512BD4?logo=csharp&style=for-the-badge&logoColor=fff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Blazor](https://shields.io/badge/-Blazor-512BD4?logo=blazor&style=for-the-badge&logoColor=fff)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord&hide_rank=true&hide=stars)](https://github-readme-stats.vercel.app/api?username=Aleksey28&count_private=true&show_icons=true&theme=nord)
 
